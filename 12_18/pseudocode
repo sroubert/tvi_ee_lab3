@@ -1,0 +1,9 @@
+'''
+#pseudo  code
+assuming start at first drawing point
+for line in lines
+    put down servo
+    drawLine
+    bring up servo
+    go to next point
+'''
